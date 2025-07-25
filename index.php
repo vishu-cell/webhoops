@@ -96,7 +96,7 @@
             <h1>Unlimited movies, TV shows, and more.</h1>
             <p>Watch anywhere. Cancel anytime.</p>
             <button>Get Started</button>
-        </div>
+        </div> needs
     </section>
 
     <footer class="footer">
